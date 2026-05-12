@@ -1,4 +1,4 @@
-# allokm84.github.io
+# alokm84.github.io
 Lead Generation Automation for Real Estate
 Stop wasting hours manually searching for leads. I build automation systems that deliver high-quality, verified contact data directly to your inbox.
 What this does for you:
