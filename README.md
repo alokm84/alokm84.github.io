@@ -22,8 +22,6 @@ Manual email management is a massive drain for professional service providers.
 It forces highly skilled workers to spend hours on repetitive, low-value tasks.
 # The solution
 I engineered a fully automated, local-first infrastructure
-~ pip install -r requirements.txt ~
-Markdown
 ### Getting Started
 
 ```bash
