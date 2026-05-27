@@ -1,5 +1,5 @@
 # Site Settings
-description: Automation Engineer | Web Scraping | RAG Pipelines with Local LLM Integration
+
 show_downloads: false
 google_analytics: null
 
@@ -7,4 +7,4 @@ google_analytics: null
 theme: jekyll-theme-cayman
 
 # Navigation (Optional: Add this if you build more pages like 'about.md')
-# title: "Alok Kumar Mishra"
+
