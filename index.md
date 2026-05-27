@@ -1,9 +1,3 @@
-
-# ALOK KUMAR MISHRA
-### Automation Engineer | Web Scraping | RAG Pipelines with Local LLM Integration
-
----
-
 Web data is messy. Most of it is unstructured, inconsistent,
 and locked inside pages that offer no API.
 
