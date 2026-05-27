@@ -1,0 +1,11 @@
+# Site Settings
+title: Alok Kumar Mishra
+description: Automation Engineer | Building Custom AI Infrastructure
+show_downloads: false
+google_analytics: null
+
+# Theme Setting
+theme: jekyll-theme-cayman
+
+# Navigation (Optional: Add this if you build more pages like 'about.md')
+# title: "Alok Kumar Mishra"
